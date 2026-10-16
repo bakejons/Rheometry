@@ -1,0 +1,11 @@
+# Ignore MATLAB code generation and autosave folders
+slprj/
+sfprj/
+*.asv
+*.xlsx
+*.csv
+*.log
+*.png
+# Ignore user preferences and crash dumps
+.Preferences/
+matlab_crash.dump.*
